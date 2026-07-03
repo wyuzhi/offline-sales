@@ -1,0 +1,4 @@
+interface:
+  display_name: "联想门店销售话术"
+  short_description: "把联想产品照片、链接和文字描述转成门店销售话术与亮点"
+  default_prompt: "Use $lenovo-store-sales to turn a Lenovo product photo, link, or description into concise retail highlights and sales talk tracks."
