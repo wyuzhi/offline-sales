@@ -32,6 +32,14 @@ Use this reference when turning Lenovo product information into in-store Chinese
 - Proof point: mention official specs, visible hardware, service policy provided by the store, or credible test data. Do not imply internal data if not provided.
 - Close: make the next step low-friction: compare two models, confirm color/configuration, check today's store policy, or test a scenario.
 
+## Fact Verification Boundaries
+
+- Confirm the exact model and configuration before writing product-specific highlights or talk tracks.
+- Do not infer CPU/GPU, memory, storage, screen, weight, battery, ports, price, stock, warranty, gifts, financing, or promotions from only a brand, series, category, shell design, or similar-looking product.
+- If a link or product page shows multiple selectable configurations, ask which configuration the customer is considering before using configuration-specific claims.
+- Prefer Lenovo official pages, PSREF, Lenovo support pages, or credible retailer/product pages for current product facts.
+- If verification is unavailable, use only user-provided facts and state "未能核验，仅基于用户输入" in `核验/注意`.
+
 ## Competitor Comparison Rules
 
 - Compare only with a named product, category, or price band that the customer actually cares about.
@@ -58,9 +66,9 @@ Use this reference when turning Lenovo product information into in-store Chinese
 
 ## Default Drafting Checklist
 
-- Identify product/series/category.
+- Confirm the specific model/configuration and fact source.
 - Identify the most likely customer job.
 - Select 2-4 benefits that are confirmed or clearly marked as assumptions.
 - Write one 80-120 character highlight.
 - Write 3-5 talk tracks covering opening, benefit, experience, comparison/closing, and objection handling.
-- Add `核验/注意` only for material uncertainty.
+- Add brief evidence or uncertainty in `核验/注意`.
